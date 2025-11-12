@@ -1,0 +1,9 @@
+40f618256215877d288081e9f2ccc755 *DESCRIPTION
+263b7b1f7fc530b97d5a5496f86ec865 *NAMESPACE
+460c9612443cbe4a634eb743ea1cfaa8 *R/aicc.R
+8de3df14025b842f9ebd5e81f4b5144d *R/critical_values.R
+a9193ee88830adbce867e84bc69bda4e *R/fcum.R
+26fd69b1823f7442a418d9f35c51a182 *R/methods.R
+ebfff75330e0387138c4317c8577fb69 *man/fcum.Rd
+c79486a8c46eda5eab7f806c40d0e3c0 *man/print.fcum.Rd
+38d4eef5ddddd05a7cb0da3aae939829 *man/summary.fcum.Rd
