@@ -4,15 +4,17 @@
 \alias{print.fcum}
 \title{Print Method for fcum Objects}
 \usage{
-\method{print}{fcum}(x, ...)
+\method{print}{fcum}(x, digits = 4, ...)
 }
 \arguments{
-\item{x}{An object of class \code{fcum}}
+\item{x}{An object of class \code{fcum}.}
 
-\item{...}{Additional arguments (not used)}
+\item{digits}{Number of digits to print.}
+
+\item{...}{Additional arguments (not used).}
 }
 \value{
-Invisibly returns the input object
+Invisibly returns the input object.
 }
 \description{
 Print Method for fcum Objects

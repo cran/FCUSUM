@@ -2,17 +2,23 @@
 % Please edit documentation in R/methods.R
 \name{summary.fcum}
 \alias{summary.fcum}
+\alias{coef.fcum}
+\alias{residuals.fcum}
 \title{Summary Method for fcum Objects}
 \usage{
 \method{summary}{fcum}(object, ...)
+
+\method{coef}{fcum}(object, ...)
+
+\method{residuals}{fcum}(object, ...)
 }
 \arguments{
-\item{object}{An object of class \code{fcum}}
+\item{object}{An object of class \code{fcum}.}
 
-\item{...}{Additional arguments (not used)}
+\item{...}{Additional arguments (not used).}
 }
 \value{
-Invisibly returns the input object
+Invisibly returns the input object.
 }
 \description{
 Summary Method for fcum Objects
